@@ -1,0 +1,11 @@
+.remove-inventory-item
+{
+    color: red;
+    font-size: large;
+    cursor: pointer;
+}
+
+.error
+{
+    color:red;
+}

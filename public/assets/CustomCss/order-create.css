@@ -1,0 +1,14 @@
+.numberCircle {
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    padding: 8px;
+    text-align: center;
+    background: orange;
+    color: white;
+    font: 22px Arial, sans-serif;
+    display: inline;
+}
+.inlnblck{
+    display: inline-block;
+}

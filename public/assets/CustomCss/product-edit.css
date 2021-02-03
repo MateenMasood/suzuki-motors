@@ -1,0 +1,13 @@
+.dashboard-search{
+  height: 143px !important;
+}
+.img{
+  border: 1px solid !important;
+}
+.bin{
+  margin: 9px;
+  cursor: pointer;
+}
+.bin:hover{
+  color : red !important;
+}
